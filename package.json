@@ -1,0 +1,29 @@
+{
+  "name": "dwpci-first-server",
+  "version": "1.0.0",
+  "description": "Primer servidor web basado en Node",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "14.x",
+    "npm": "7.x"
+  },
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "node",
+    "pwpcI",
+    "itgam"
+  ],
+  "author": "@miguel",
+  "license": "MIT"
+
+  
+}
+
+
